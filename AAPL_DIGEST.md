@@ -46,16 +46,17 @@ Most notable recent moves (upgrades/downgrades and PT changes):
 | Date | Firm | Action | Rating | Price Target |
 | --- | --- | --- | --- | --- |
 | 2026-09-18 | **Evercore ISI Group** | Reiterated rating, **PT raised** | Outperform | $365 → **$380** |
-| 2026-09-17 | B of A Securities | Reiterated Buy | Buy | $370 maintained |
-|  remains near an all-time high and the 1.2% pullback was expected. | | | | |
+| 2026-09-17 | B of A Securities | Reiterated | Buy | $370 maintained |
+| 2026-09-10 | TD Cowen | Reiterated | Buy | $400 maintained |
+| 2026-09-10 | Rosenblatt | Maintained | Neutral | $303 maintained |
 | 2026-08-17 | **Rothschild & Co** | **Upgraded** | Neutral → **Buy** | $260 → **$400** |
 | 2026-08-10 | **Jefferies** | **Downgraded** | Hold → **Underperform** | $285.56 → **$263.66** |
 | 2026-08-04 | China Renaissance | Downgraded | Buy → Hold | $280 |
-|  2026-07-14 | Keybanc | Downgraded | Sector Weight → Underweight | $250 |
-| 2026-07-31 | Wells Fargo | Maintained Overweight | Overweight | $310 → $350 (raised) |
-| 2026-07-31 | JP Morgan | Maintained Overweight | Overweight | $345 → $340 (trimmed) |
-| 2026-07-31 | Goldman Sachs | Maintained Buy | Buy | $370 → $360 (trimmed) |
-| 2026-07-31 | Barclays | Maintained Underweight | Underweight | $253 → $245 (trimmed) |
+| 2026-07-31 | Wells Fargo | Maintained | Overweight | $310 → $350 (raised) |
+| 2026-07-31 | JP Morgan | Maintained | Overweight | $345 → $340 (trimmed) |
+| 2026-07-31 | Goldman Sachs | Maintained | Buy | $370 → $360 (trimmed) |
+| 2026-07-31 | Barclays | Maintained | Underweight | $253 → $245 (trimmed) |
+| 2026-07-14 | Keybanc | Downgraded | Sector Weight → Underweight | $250 |
 
 **Takeaway:** The analyst tape is mixed but broadly constructive. The standout move is **Rothschild & Co's dramatic upgrade from Neutral to Buy with a price target raised from $260 to $400** (Aug 17, 2026) — a ~54% PT boost that places it at the top of the street range. On the negative side, **Jefferies' downgrade to Underperform** (Aug 10, 2026, PT cut to $263.66) is the most visible bear flag, and Keybanc's July move to Underweight ($250) is the street-low target. The most recent action — **Evercore ISI raising its PT to $380** while reiterating Outperform (Sep 18, 2026) — confirms the near-term bullish camp is still pushing targets higher into the stock's strength.
 
